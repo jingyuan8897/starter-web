@@ -15,3 +15,5 @@ this is a simple purpose
 this is a simple deployment
 
 ## Sample website with plenty of files for demos
+
+### Copyright
