@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-this is a simple project
+this is a simple project. ADDING A LINE FOR REBASING EXAMPEL
 
 ## This repository is for showing how Git and GitHub work
 
