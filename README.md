@@ -18,3 +18,5 @@ this is a simple deployment
 
 ### Copyright
 Please fork this repo and issue PR
+
+STASH example
