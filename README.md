@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-this is a simple project. ADDING A LINE FOR REBASING EXAMPEL
+this is a simple project. ADDING A LINE FOR REBASING EXAMPEL, THEN MORE CHANGES FROM MYFEAUTRE BTACN
 
 ## This repository is for showing how Git and GitHub work
 
